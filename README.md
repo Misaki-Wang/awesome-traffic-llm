@@ -21,3 +21,8 @@
 ### Large Language Models for Travel Behavior Prediction
 
 - [Full paper on arXiv](https://arxiv.org/pdf/2312.00819)
+
+## Prompt Engineering
+
+### Prompt Engineering Overview
+- [lilian's blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#instruction-prompting)
