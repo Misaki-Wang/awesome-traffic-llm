@@ -26,3 +26,7 @@
 
 ### Prompt Engineering Overview
 - [lilian's blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#instruction-prompting)
+
+## Agent
+
+- [MapGPT: An Autonomous Framework for Mapping by Integrating Large Language Model and Cartographic Tools](https://www.researchgate.net/profile/Yifan-Zhang-51/publication/378043175_MapGPT_An_Autonomous_Framework_for_Mapping_by_Integrating_Large_Language_Model_and_Cartographic_Tools/links/65c4c84f1e1ec12eff7c002b/MapGPT-An-Autonomous-Framework-for-Mapping-by-Integrating-Large-Language-Model-and-Cartographic-Tools.pdf)
