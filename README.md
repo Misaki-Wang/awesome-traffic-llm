@@ -22,6 +22,10 @@
 
 - [Full paper on arXiv](https://arxiv.org/pdf/2312.00819)
 
+### Exploring Large Language Models for Human Mobility Prediction under Public Events
+-  [Full paper on arXiv](https://arxiv.org/abs/2311.17351)
+-  [Presentation slide](https://qiniu.pattern.swarma.org/attachment/%E6%A2%81%E6%9C%88%E5%86%B0-LLM_presentation_Yuebing.pdf)
+
 ## Prompt Engineering
 
 ### Prompt Engineering Overview
